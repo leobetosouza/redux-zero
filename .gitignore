@@ -33,14 +33,14 @@ _site/
 node_modules/
 # dist/
 /preact/
-/react/
-/svelte/
-/interfaces/
-/utils/
-/store/
+# /react/
+# /svelte/
+# /interfaces/
+# /utils/
+# /store/
 /vue/
-/middleware/
-/devtools/
+# /middleware/
+# /devtools/
 index.d.ts
 
 # Optional npm cache directory
