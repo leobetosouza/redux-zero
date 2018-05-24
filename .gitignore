@@ -31,7 +31,7 @@ _site/
 
 # Dependency directory
 node_modules/
-dist/
+# dist/
 /preact/
 /react/
 /svelte/
